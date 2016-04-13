@@ -1,0 +1,52 @@
+/* add your CSS here */
+
+body {
+    border-style: solid;
+    border-color: lightgrey;
+    border-width: 2px;
+    width: 320px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 1px 5px 5px lightgrey;
+}
+
+h3{
+    font-size: 1.5em;
+}
+
+.image{
+    display: block;
+    border-style: solid;
+    border-color: lightgrey;
+    border-width: 1px;
+
+
+}
+
+.innerbox{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.textbox{
+    border-style:solid;
+    border-color: lightgrey;
+    border-width: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+
+
+}
+
+.italic{
+    font-style: italic;
+}
+
+.strong{
+    font-weight: bold;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0;
+}
